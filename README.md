@@ -49,7 +49,7 @@ YTDownloader/
 
 ## 🌟 Página oficial y tutoriales
 
-👉 [**Próximamente en jorgecoral.com/ytdownloader**](https://jorgecoral.com/ytdownloader)
+👉 [**Ver en jorgecoral.com/youtube-downloader**](https://jorgecoral.com/youtube-downloader)
 
 Ahí encontrarás:
 - Manual detallado de uso
